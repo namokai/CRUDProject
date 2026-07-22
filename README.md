@@ -131,12 +131,19 @@ Berikut adalah gambaran alur menu utama program:
 === SISTEM MANAJEMEN PASIEN RUMAH SAKIT ===
 
 Lihat Seluruh Pasien
+
 Tambah Pasien
+
 Edit Pasien
+
 Hapus Pasien
+
 Cari Pasien
+
 Detail Pasien
+
 Statistik Pasien
+
 Keluar
 
 Pengguna cukup memilih menu dengan memasukkan angka sesuai pilihan yang tersedia.
