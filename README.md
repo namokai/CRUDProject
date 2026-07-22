@@ -127,6 +127,7 @@ Sistem menerapkan validasi input untuk menjaga konsistensi dan keakuratan data, 
 ## Menu Program
 
 Berikut adalah gambaran alur menu utama program:
+
 === SISTEM MANAJEMEN PASIEN RUMAH SAKIT ===
 
 Lihat Seluruh Pasien
