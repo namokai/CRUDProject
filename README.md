@@ -80,7 +80,7 @@ pip install tabulate
 
 ---
 
-## ▶Cara Menjalankan
+## Cara Menjalankan
 
 Jalankan program melalui terminal dengan perintah berikut:
 
@@ -144,6 +144,7 @@ Pengguna cukup memilih menu dengan memasukkan angka sesuai pilihan yang tersedia
 
 ## Screenshot
 <img width="476" height="261" alt="image" src="https://github.com/user-attachments/assets/5bf7ad4e-97dd-4ed9-bd04-ff5f0f3e2d6b" />
+
 Tampilan sistem login untuk masuk menu 
 
 
