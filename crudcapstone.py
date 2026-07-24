@@ -7,7 +7,6 @@ from tabulate import tabulate
 
 data_pasien = []
 
-
 def _umur_from_tgl(tgl: str, today=None) -> int:
     if today is None:
         today = datetime.now()
